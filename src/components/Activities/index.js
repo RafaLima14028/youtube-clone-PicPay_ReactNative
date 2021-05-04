@@ -5,6 +5,9 @@ import {
   Container,
   Header,
   Title,
+  SubTitles,
+  SubTitle,
+  SubTitle2,
   Card,
   CardHeader,
   Avatar,
@@ -28,6 +31,10 @@ export default function Activities() {
     <Container>
       <Header>
         <Title>Atividades</Title>
+        <SubTitles>
+          <SubTitle>Todas</SubTitle>
+          <SubTitle2>Minhas</SubTitle2>
+        </SubTitles>
       </Header>
 
       <Card>

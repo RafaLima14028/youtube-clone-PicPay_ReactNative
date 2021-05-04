@@ -5,11 +5,33 @@ export const Container = styled.View`
   padding: 0 16px;
 `;
 
-export const Header = styled.View``;
+export const Header = styled.View`
+  flex-direction: row;
+  justify-content: space-between;
+`;
 
 export const Title = styled.Text`
   color: #fff;
   font-size: 18px;
+  font-weight: bold;
+`;
+
+export const SubTitles = styled.TouchableOpacity`
+  flex-direction: row;
+`;
+
+export const SubTitle = styled.Text`
+  color: #10c86e;
+  margin-left: 15px;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: underline;
+`;
+
+export const SubTitle2 = styled.Text`
+  color: #fff;
+  margin-left: 15px;
+  font-size: 12px;
   font-weight: bold;
 `;
 
