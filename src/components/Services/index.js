@@ -4,7 +4,6 @@ import {
   Container,
   Text,
   Service,
-  Option,
   Img,
   Title,
   SubTitle,
