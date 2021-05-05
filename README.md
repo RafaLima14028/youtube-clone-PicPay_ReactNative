@@ -29,6 +29,6 @@ Para criar este clone utilizamos o [React-Native](https://reactnative.dev/) com 
 - [x] Menu Bottom
 - [x] Tela Home
 - [x] Tela de Carteira
-- [ ] Tela de Pagamento
+- [x] Tela de Pagamento
 - [ ] Tela de Notificação
 - [ ] Tela de Ajustes
